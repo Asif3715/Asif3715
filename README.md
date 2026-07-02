@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/asif-khan-0ba826240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:tanoli3715@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Asif3715&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 ---
