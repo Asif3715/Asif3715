@@ -1,4 +1,4 @@
-<h1 align="center">👋 Asif Khan</h1>
+<h1 align="center"> Asif Khan</h1>
 <h3 align="center">Data Science @ NUST · Building AI/ML Systems</h3>
 
 <p align="center">
