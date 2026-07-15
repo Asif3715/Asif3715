@@ -1,4 +1,4 @@
-<h1 align="center"> Asif Khan</h1>
+<h1 align="center">Asif Khan</h1>
 <h3 align="center">Data Science @ NUST · Building AI/ML Systems</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 Builder interested in AI/ML, data science, and software development. I enjoy solving real-world problems through code and continuously learning new technologies. Currently pursuing BS Data Science at **NUST**, with hands-on experience in **RAG systems**, **deep learning**, **NLP pipelines**, and **BI platforms**.
 
@@ -19,7 +19,7 @@ Builder interested in AI/ML, data science, and software development. I enjoy sol
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,16 +40,16 @@ Builder interested in AI/ML, data science, and software development. I enjoy sol
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asif3715&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif3715&layout=compact&theme=radical&langs_count=8"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Asif3715&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Asif3715&layout=compact&theme=radical&langs_count=8"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -60,7 +60,7 @@ Builder interested in AI/ML, data science, and software development. I enjoy sol
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/asif-khan-0ba826240"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
